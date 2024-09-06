@@ -38,3 +38,6 @@ export GITHUB_TOKEN="your_personal_access_token"
 
 - **curl**: Command-line tool for transferring data with URLs.
 - **jq**: Command-line JSON processor for formatting and querying JSON data.
+
+## Example
+![image](https://github.com/user-attachments/assets/a6077e90-8e04-4672-b4a5-f01e79f71226)
